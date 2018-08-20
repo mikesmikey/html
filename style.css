@@ -1,0 +1,10 @@
+body {
+		color: white;
+	}
+
+td { border : 2px solid white; }
+
+.uppercase { text-transform: uppercase; }
+.cursive { font-family: cursive; }
+
+#description { color: teal; }
